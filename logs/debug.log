@@ -1,6 +1,12 @@
-2020-03-20 20:14:31 INFO  - Starting MaskloggerApplication on LAPTOP-3J5UOKEG with PID **0 (R:\spring-ws\masklogger\bin\main started by RAJESH M in R:\spring-ws\masklogger) 
-2020-03-20 20:14:31 DEBUG - Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE 
-2020-03-20 20:14:31 INFO  - No active profile set, falling back to default profiles: default 
-2020-03-20 20:14:32 INFO  - Started MaskloggerApplication in 1.** seconds (JVM running for 2.**) 
-2020-03-20 20:14:32 INFO  - User added with dob : **-**-** 
-2020-03-20 20:14:32 INFO  - User added with email : xxx@xxx 
+2020-03-21 18:50:15 INFO  - Starting MaskloggerApplication on LAPTOP-3J5UOKEG with PID 14880 (R:\spring-ws\masklogger\bin\main started by RAJESH M in R:\spring-ws\masklogger) 
+2020-03-21 18:50:15 DEBUG - Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE 
+2020-03-21 18:50:15 INFO  - No active profile set, falling back to default profiles: default 
+2020-03-21 18:50:15 INFO  - Started MaskloggerApplication in 1.116 seconds (JVM running for 1.889) 
+2020-03-21 18:50:15 INFO  - User added with dob : 01-12-1989 
+2020-03-21 18:50:15 INFO  - User added with email : john@gmail.com 
+2020-03-21 18:52:17 INFO  - Starting MaskloggerApplication on LAPTOP-3J5UOKEG with PID ** (R:\spring-ws\masklogger\bin\main started by RAJESH M in R:\spring-ws\masklogger) 
+2020-03-21 18:52:17 DEBUG - Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE 
+2020-03-21 18:52:17 INFO  - No active profile set, falling back to default profiles: default 
+2020-03-21 18:52:18 INFO  - Started MaskloggerApplication in 1.** seconds (JVM running for 2.**) 
+2020-03-21 18:52:18 INFO  - User added with dob : **-**-** 
+2020-03-21 18:52:18 INFO  - User added with email : xxx@xxx 
